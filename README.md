@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhhja2001&theme=cobalt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhhja2001&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
