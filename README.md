@@ -48,4 +48,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhhja2001&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhhja2001&repo=musix&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhhja2001&repo=musix&theme=cobalt)](https://github.com/thinhhja2001/musix)
