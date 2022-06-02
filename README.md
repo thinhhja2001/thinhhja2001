@@ -7,7 +7,7 @@
   <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" />
 </a>
 <a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+  <img align="left" alt="Facebook" width="24px" src="https://img.icons8.com/color/48/undefined/facebook-new.png" />
 </a>
 
 
@@ -19,28 +19,29 @@
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 👨🏽‍💻 I’m currently studying at University of Information Technology
+- 🌱 I love to be a Mobile Developer. 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+- 📫 Email me at [19522281@gm.uit.edu.vn](mailto:19522281@gm.uit.edu.vn).
 
 
 
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+<code><img height="20" src="https://img.icons8.com/color/48/undefined/dart.png"></code> Dart
+<code><img height="20" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"></code> Javascript
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
+<code><img height="20" src="https://img.icons8.com/color/48/undefined/firebase.png"></code> Firebase
+<code><img height="20" src="https://img.icons8.com/color/48/undefined/mysql-logo.png"></code> MySQL
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/color/48/undefined/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhhja2001&theme=cobalt&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhhja2001&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thinhhja2001&repo=musix)](https://github.com/anuraghazra/github-readme-stats)
