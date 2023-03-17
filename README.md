@@ -28,8 +28,8 @@
 -  🙆🏻‍♂️ I’m currently studying at University of Information Technology
 -  🌱 I love to be a Mobile Developer. 
 -  💬 Ask me about anything, I love to answer!
--  📫 Email me at [19522281@gm.uit.edu.vn](mailto:19522281@gm.uit.edu.vn).
--  🧑🏻‍💻 Currently working as a Flutter Developer at Unicloud Ho Chi Minh
+-  📫 Email me at [thinhnguyendoan5122001@gmail.com](mailto:thinhnguyendoan5122001@gmail.com).
+-  🧑🏻‍💻 Used to work as a Flutter Developer at Unicloud Ho Chi Minh
 
 
 
