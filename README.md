@@ -38,9 +38,13 @@
 
 <code><img height="40" src="https://img.icons8.com/color/48/undefined/dart.png"></code> Dart
 <code><img height="40" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"></code> Javascript
+<code><img height="40" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"></code> JAVA
+
+<code><img height="40" src="https://img.icons8.com/officel/256/spring-logo.png"></code> Spring Boot
 
 <code><img height="40" src="https://img.icons8.com/color/48/undefined/firebase.png"></code> Firebase
 <code><img height="40" src="https://img.icons8.com/color/48/undefined/mysql-logo.png"></code> MySQL
+<code><img height="40" src="https://img.icons8.com/color/256/mongodb.png"></code> MongoDB
 
 <code><img height="40" src="https://img.icons8.com/color/48/undefined/git.png"></code> GIT
 
